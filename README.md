@@ -1,6 +1,6 @@
 # Earth age calculator
 
-![Clair Cameron Patterson](https://i.namu.wiki/i/rbi7RdoqY7HfoOPSi69iHrdVdsALZpDs6C_DT4UEzY4CtfWSlHLji1ka54DVD3SpR6kWs9dpp6aw_98BgAjzAjqEmvhlUobHAjBSKIZu7eqFsIKasb9Yi2NWS6mMRac6vgKQMW4ERkCIXrVXTFubvQ.webp)
+![image](https://github.com/edu-data-mario/earth-age-calculator/assets/134017660/3117b1c5-0fd0-4db4-ba4e-b93199d14376)
 
 - In collaboration with George Tilton, Patterson developed the uranium–lead dating method into lead–lead dating. By using lead isotopic data from the Canyon Diablo meteorite, he calculated an age for the Earth of 4.55 billion years, which was a figure far more accurate than those that existed at the time, and one that has remained largely unchanged since 1956.
 
